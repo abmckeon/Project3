@@ -15,6 +15,6 @@ Below is the code to install these packages. You'll want to run this code before
 
 install.packages("shiny", "tidyverse", "shinythemes", "shinyWidgets", "ggthemes")
 
-Copy and paste the code below into R-Studio to run the app!: 
+Copy and paste the code below into R-Studio to run the app!
 
 shiny::runGitHub()
