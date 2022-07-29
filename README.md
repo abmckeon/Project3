@@ -1,5 +1,4 @@
-# Ashlee McKeon
-Project3
+# Ashlee McKeon: Project3
 
 The purpose of this app is to explore a dataset containing ~130k wine reviews published to WineEnthusiast.
 
