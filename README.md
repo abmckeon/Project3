@@ -9,10 +9,11 @@ The following packages are needed to run this app:
 +  shinythemes
 +  shinyWidgets
 +  ggthemes
++  mathjaxr
 
 Below is the code to install these packages. You'll want to run this code before running the app:
 
-install.packages("shiny", "tidyverse", "shinythemes", "shinyWidgets", "ggthemes")
+install.packages("shiny", "tidyverse", "shinythemes", "shinyWidgets", "ggthemes", "mathjaxr")
 
 Copy and paste the code below into R-Studio to run the app!
 
